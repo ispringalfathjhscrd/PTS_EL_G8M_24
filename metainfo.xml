@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="DC483CF2-807A-40FA-B374-298AA9F25153" version="0">
+	<info>
+		<title>PTS EL Grade 8M Semester 2 2526</title>
+		<description/>
+	</info>
+	<files index="id30" thumbnail="id26" totalSize="3476781">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/html5-unsupported.html</file>
+		<file id="id8">data/images/img-00ba9008510b385b2ea7c3dfb6887a9c1bd73757.jpg</file>
+		<file id="id9">data/images/img-22b9841704eee791416fe62a61fa7097e39bcbc5.jpg</file>
+		<file id="id10">data/images/img-2c6eb2dd8e6675e0935cee671f8f6e32cacb16cb.jpg</file>
+		<file id="id11">data/images/img-2da65b74c83b3f759706d4931acb73cb151a59f9.jpg</file>
+		<file id="id12">data/images/img-3e4b245ce88b02ad1bd52a9f6250d2214958caaf.jpg</file>
+		<file id="id13">data/images/img-42577376357585dcf9cb6e93c144a40f14a797b6.jpg</file>
+		<file id="id14">data/images/img-5302c9758ecf54deb6eb16e6da64ce34a2f26aab.jpg</file>
+		<file id="id15">data/images/img-7b5dd97040f12fb43581d7465ed89eb428c7dfec.jpg</file>
+		<file id="id16">data/images/img-8be80f389132970d850815fd0feea77f6a6da27f.jpg</file>
+		<file id="id17">data/images/img-909efd61a5c1b32679bc4a12594af9eb6d3e7c4e.jpg</file>
+		<file id="id18">data/images/img-a360c42341c77aafd592cf79b5851feccfc1a309.jpg</file>
+		<file id="id19">data/images/img-a8659ad5e9b98919c144f3c733b6bb447c258e79.jpg</file>
+		<file id="id20">data/images/img-ac5c096b6af0adc69392a32909226d57d0caeae7.jpg</file>
+		<file id="id21">data/images/img-f0076338696b2507723a2f215e0104a749868920.jpg</file>
+		<file id="id22">data/images/img-f7653abe7dc9a9c03959a9b1b0ca30f51d2a0c0d.jpg</file>
+		<file id="id23">data/images/img-fb405a0ca96c35b16eef93409f9078f98e4bfebb.jpg</file>
+		<file id="id24">data/ismplayer/app_store2x.png</file>
+		<file id="id25">data/ismplayer/play.svg</file>
+		<file id="id26">data/ismplayer/preview.png</file>
+		<file id="id27">data/ismplayer/style.css</file>
+		<file id="id28">data/ismplayer/style_mini.css</file>
+		<file id="id29">data/player.js</file>
+		<file id="id30">index.html</file>
+		<file id="id31">ismplayer.html</file>
+		<file id="id32">preview.png</file>
+	</files>
+</presentation>
+
